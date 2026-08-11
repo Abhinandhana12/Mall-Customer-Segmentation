@@ -190,7 +190,15 @@ The scatter plot provides the primary segmentation view by showing customers acc
 ![Customer_Segmentation_Dashboard](dashboard.png)
 
 ---
+### Dashboard Highlights
 
+- 1,000 customer records analysed
+- Customer segmentation based on Annual Income and Spending Score
+- Five customer segments identified using K-Means Clustering
+- Interactive gender filtering
+- Segment-wise age and gender analysis
+- Customer segment summary with income and spending metrics
+- Business recommendations for personalized marketing
 ## 📋 Segment Summary
 
 | Segment | Avg Income (k$) | Customers | Avg Age | Avg Spending Score |
