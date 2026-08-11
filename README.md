@@ -187,7 +187,7 @@ The scatter plot provides the primary segmentation view by showing customers acc
 
 ## 📸 Dashboard Preview
 
-![Customer Segmentation Dashboard](dashboard.png)
+![Customer_Segmentation_Dashboard](dashboard.png)
 
 ---
 
